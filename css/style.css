@@ -43,3 +43,9 @@ body {
 .contacts-link:focus {
     color: #404bbf;
 }
+.mane-footer {
+    background-color: #2e2f42;
+}
+.footer-logo .logo-part {
+    color: #f4f4fd;
+}
